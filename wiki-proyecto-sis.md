@@ -338,6 +338,18 @@ export default InfoRestauranteView;
 
 * Evidencias de pruebas (capturas, logs) de por lo menos 8 historias de usuario
 
+Debido a los hechos mencionado posteriormente, no llego a cumplir las 8 historias de usuario, sólo 3 historias de usuario
+
+### Modal de informacion restaurante
+![IconInfo](./Anexos/iconInfo.jpg)  
+
+![Modal](./Anexos/modal.jpg)  
+
+### Barra de filtrado
+![Filtrar](./Anexos/filtrar_ab.jpg)
+![Filtrar](./Anexos/filtrar_cerr.jpg)
+
+
 ---
 
 ## Gestión del Proyecto
@@ -355,6 +367,10 @@ Ademas, siempre es bueno preguntar eso ahorra mucho tiempo a la hora de desarrol
 
 ## Anexos
 
-* Presentación en PPT de la gestión del proyecto
+* Presentación en PPT de la gestión del proyecto  
+[Presentación del proyecto (PPT)](./anexos/GestiondeProyecto-OrderNow.pptx.pptx)
+
+
+
 
 ---
